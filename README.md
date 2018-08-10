@@ -1,5 +1,5 @@
 # RoadtoDataAnalysis
-记录学习数据分析时做过的一些小项目：餐饮店铺选址分析（Python & QGIS）
+记录学习数据分析做过的项目：餐饮店铺选址分析（Python & QGIS）
 
 分析结果见：[ 什么？数据能告诉我们怎样开店更赚钱？](https://www.jianshu.com/p/e5f2632f7fe8)
 
