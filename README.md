@@ -1,7 +1,7 @@
 # RoadtoDataAnalysis
 记录学习数据分析时做过的一些小项目：餐饮店铺选址分析（Python & QGIS）
 
-分析结果见：https://www.jianshu.com/p/e5f2632f7fe8
+分析结果见：[ 什么？数据能告诉我们怎样开店更赚钱？](https://www.jianshu.com/p/e5f2632f7fe8)
 
 ##一、从“口味”、“人均消费”、“性价比”三个维度对不同菜品系列进行比较，筛选出可开店铺的餐饮类型
 
